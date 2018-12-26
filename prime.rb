@@ -1,2 +1,3 @@
-def implementing_prime
-  prime?()
+def implementing_prime (number)
+  prime?(number)
+end
