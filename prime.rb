@@ -1,3 +1,3 @@
 def prime?(number)
-  number/
+  if math.sqrt(number)
 end
